@@ -12,4 +12,5 @@ bull-monitor \
   -q ImportCsv -q ImportDeals -q ImportContacts \
   -q MergeContacts -q MergeContactFirstStep -q MergeContactFinalStep \
   -q ImportTrackDeal  -q ImportTrackContact \
-  -q CampaignProcessContacts -q CampaignFinish -q CampaignSendContactToProvider -q CampaignValidateFinish
+  -q CampaignProcessContacts -q CampaignFinish -q CampaignSendContactToProvider -q CampaignValidateFinish \
+  -q ExportCampaign -q ExportCampaignStep
