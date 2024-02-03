@@ -10,7 +10,7 @@ bull-monitor \
   --prefix bull \
   --bullmq \
   -q ImportCsv -q ImportDeals -q ImportContacts \
-  -q MergeContacts -q MergeContactFirstStep -q MergeContactFinalStep \
+  -q MergeContacts -q MergeContactStep \
   -q ImportTrackDeal  -q ImportTrackContact \
   -q CampaignProcessContacts -q CampaignFinish -q CampaignSendContactToProvider -q CampaignValidateFinish \
   -q ExportCampaign -q ExportCampaignStep
