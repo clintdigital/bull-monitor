@@ -13,4 +13,5 @@ bull-monitor \
   -q MergeContacts -q MergeContactStep \
   -q ImportTrackDeal  -q ImportTrackContact \
   -q CampaignProcessContacts -q CampaignFinish -q CampaignSendContactToProvider -q CampaignValidateFinish \
-  -q ExportCampaign -q ExportCampaignStep
+  -q ExportCampaign -q ExportCampaignStep \
+  -q DealBulkActions -q DealBulkStep
